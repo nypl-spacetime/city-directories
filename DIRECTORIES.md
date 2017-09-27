@@ -1,5 +1,7 @@
 # List of NYPL’s Digitized City Directories
 
+__Note:__ this table is used by the [City Directory ETL module](https://github.com/nypl-spacetime/etl-city-directories/) of the NYC Space/Time Directory; please do not change the column headers!
+
 | Year     | Type             | UUID                                                                                                                     | StartPage    | StopPage | NumCols | SamplePage                                                                                                                             | TrainingData |
 |:---------|:-----------------|:-------------------------------------------------------------------------------------------------------------------------|-------------:|---------:|--------:|:---------------------------------------------------------------------------------------------------------------------------------------|:-------------|
 | 1786     | Franks/Kollock   | [`b14662b0-81a8-0134-2a18-00505686a51c`](https://digitalcollections.nypl.org/items/746a3160-d5c9-0134-e994-00505686d14e) | 20           | 52       | 1       | [Page 40](https://digitalcollections.nypl.org/items/70bcc910-d5c9-0134-fbe5-00505686d14e#/?uuid=7599a890-d5c9-0134-1e3b-00505686d14e)  |              |
