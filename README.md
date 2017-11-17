@@ -4,7 +4,7 @@
 
 The New York Public Library has [digitized its collection of city directories](https://www.nypl.org/blog/2016/09/21/new-york-city-directories-free-online), and the resulting high-resolution images can be browsed and downloaded on our [Digital Collections](https://digitalcollections.nypl.org/collections/new-york-city-directories#/?tab=about).
 
-As part of the the [NYC Space/Time Directory](http://spacetime.nypl.org/) project and in collaboration with the New York University, we are using optical character recognition (OCR) to turn the city directories into a searchable atlas of historical New York City.
+As part of the NYPL's [NYC Space/Time Directory](http://spacetime.nypl.org/) project and in collaboration with the Data Services at New York University's Bobst Library, we are using optical character recognition (OCR) to turn the city directories into a searchable atlas of historical New York City.
 
 ## Meetups
 
