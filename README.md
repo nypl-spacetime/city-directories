@@ -11,7 +11,7 @@ As part of the the [NYC Space/Time Directory](http://spacetime.nypl.org/) projec
 Two meetups have been organized about the digitized city directories:
 
 - [City Directories: 137 years of NYC History](https://www.meetup.com/historical-data-and-maps-at-nypl/events/235450812/)
-- [Extracting a Million-Record Dataset from Historical NYC City Directories](https://www.meetup.com/historical-data-and-maps-at-nypl/events/244290064/) ([slides](http://spacetime.nypl.org/city-directory-meetup))
+- [Extracting a Million-Record Dataset from Historical NYC City Directories](https://www.meetup.com/historical-data-and-maps-at-nypl/events/244290064/) ([__slides__](http://spacetime.nypl.org/city-directory-meetup))
 
 ## List of digitized city directories
 
